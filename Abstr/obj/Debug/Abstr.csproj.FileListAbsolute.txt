@@ -1,0 +1,7 @@
+D:\Основы алгоритмизации\Abstr\bin\Debug\Abstr.exe.config
+D:\Основы алгоритмизации\Abstr\bin\Debug\Abstr.exe
+D:\Основы алгоритмизации\Abstr\bin\Debug\Abstr.pdb
+D:\Основы алгоритмизации\Abstr\obj\Debug\Abstr.csproj.AssemblyReference.cache
+D:\Основы алгоритмизации\Abstr\obj\Debug\Abstr.csproj.CoreCompileInputs.cache
+D:\Основы алгоритмизации\Abstr\obj\Debug\Abstr.exe
+D:\Основы алгоритмизации\Abstr\obj\Debug\Abstr.pdb
