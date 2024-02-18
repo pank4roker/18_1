@@ -1,0 +1,8 @@
+D:\115\18_1(ind)\bin\Debug\18_1(ind).exe.config
+D:\115\18_1(ind)\bin\Debug\18_1(ind).exe
+D:\115\18_1(ind)\bin\Debug\18_1(ind).pdb
+D:\115\18_1(ind)\obj\Debug\18_1(ind).csproj.AssemblyReference.cache
+D:\115\18_1(ind)\obj\Debug\18_1(ind).csproj.SuggestedBindingRedirects.cache
+D:\115\18_1(ind)\obj\Debug\18_1(ind).csproj.CoreCompileInputs.cache
+D:\115\18_1(ind)\obj\Debug\18_1(ind).exe
+D:\115\18_1(ind)\obj\Debug\18_1(ind).pdb
